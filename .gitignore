@@ -1,1 +1,8 @@
 **/.DS_Store
+node_modules/
+*.class
+*.zip
+build/
+npm-debug.log
+config.json
+package-lock.json
